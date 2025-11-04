@@ -2,6 +2,8 @@
 
 OpenAI의 Whisper, GPT, TTS 모델을 활용한 음성 기반 챗봇 애플리케이션입니다.
 
+### [Voice Chatbot APP](https://voicebot-app-hqeuygvujkufbmdxaursd3.streamlit.app/) 👈 클릭
+
 ## 📋 프로젝트 소개
 
 이 프로젝트는 사용자의 음성 질문을 받아 텍스트로 변환하고, GPT 모델을 통해 응답을 생성한 후, 다시 음성으로 변환하여 들려주는 대화형 Voice Chatbot입니다.
