@@ -2,7 +2,7 @@
 
 OpenAI의 Whisper, GPT, TTS 모델을 활용한 음성 기반 챗봇 애플리케이션입니다.
 
-### [Voice Chatbot APP](https://voicebot-app-hqeuygvujkufbmdxaursd3.streamlit.app/) 👈 클릭
+<!-- ### [Voice Chatbot APP](https://voicebot-app-hqeuygvujkufbmdxaursd3.streamlit.app/) 👈 클릭 -->
 
 ## 📋 프로젝트 소개
 
