@@ -23,7 +23,7 @@ OpenAI의 Whisper, GPT, TTS 모델을 활용한 음성 기반 챗봇 애플리�
 
 #### 사전 요구사항
 - Python 3.11+
-- OpenAI API Key
+- [OpenAI API Key](https://platform.openai.com/docs/overview)
 - FFmpeg (오디오 처리용)
 
 #### 설치 및 실행
