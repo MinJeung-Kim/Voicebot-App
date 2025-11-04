@@ -35,10 +35,7 @@ def main():
         model = st.radio(label='GPT 모델', options=['gpt-4.1', 'gpt-4o', 'gpt-4o-mini'], index=2)
         print(f'model={model}') 
 
-        if st.button(label='초기화'):     
-            pass
-
-        with st.button(label='초기화'):
+        if st.button(label='초기화'):
             st.session_state['check_reset'] = True
             st.session_state['messages'] = [
                 {"role": "system", "content": "당신은 선하지만 친절하지는 않은 챗봇입니다."}
